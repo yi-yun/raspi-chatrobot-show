@@ -1,6 +1,5 @@
 .DS_Store
 Thumbs.db
 db.json
-*.md
 assets/
 __pycache__/
